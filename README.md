@@ -1,16 +1,7 @@
 # tiktok_ui_clone
 
-A new Flutter project.
+<img width="196" alt="image" src="https://user-images.githubusercontent.com/114337820/210139197-38323e75-3dde-4cc9-8289-19f3d04d04e3.png">
 
-## Getting Started
+<img width="197" alt="image" src="https://user-images.githubusercontent.com/114337820/210139208-e1879134-e22b-448f-83fc-ac935160f1f8.png">
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="194" alt="image" src="https://user-images.githubusercontent.com/114337820/210139215-ecca4fc7-6147-439e-b710-dee3c008930b.png">
